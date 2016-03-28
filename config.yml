@@ -1,0 +1,3 @@
+config:
+  message: 'FrozenSoulTrial: I am the MOTD'
+  message_rate: 12000
