@@ -1,0 +1,5 @@
+config:
+  message: 'FrozenSoul will restart in (time_value) (time)'
+  restart_interval: 60
+  automatic_restart: '20,10,9,8,7,6,5,4,3,2,1'
+  manual_restart: '600,300,60,20,10,9,8,7,6,5,4,3,2,1'
